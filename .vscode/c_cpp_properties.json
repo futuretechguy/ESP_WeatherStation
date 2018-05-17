@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\wende\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0-rc2\\cores\\esp8266",
+                "C:\\Users\\wende\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0-rc2\\libraries",
+                "C:\\Users\\wende\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\libraries",
+                "C:\\Users\\wende\\Documents\\Arduino\\libraries",
+                "C:\\Users\\wende\\Documents\\vsCodeArduino",
+                "C:\\Users\\wende\\AppData\\Local\\Arduino15\\packages\\arcore\\hardware\\avr\\1.0.0\\cores\\arcore",
+                "C:\\Users\\wende\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0-rc2\\cores\"esp8266",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                "C:\\Users\\wende\\Documents\\Arduino\\libraries\\HomeseerSend\\src",
+                "C:\\Users\\wende\\Documents\\Arduino\\libraries\\Grove_Temperature_And_Humidity_Sensor"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "C:\\Users\\wende\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0-rc2\\cores\\esp8266",
+                    "C:\\Users\\wende\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0-rc2\\libraries",
+                    "C:\\Users\\wende\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.1\\libraries",
+                    "C:\\Users\\wende\\Documents\\Arduino\\libraries",
+                    "C:\\Users\\wende\\Documents\\vsCodeArduino",
+                    "C:\\Users\\wende\\AppData\\Local\\Arduino15\\packages\\arcore\\hardware\\avr\\1.0.0\\cores\\arcore",
+                    "C:\\Users\\wende\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0-rc2\\cores\"esp8266",
+                    "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                    "C:\\Users\\wende\\Documents\\Arduino\\libraries\\HomeseerSend\\src",
+                    "C:\\Users\\wende\\Documents\\Arduino\\libraries\\Grove_Temperature_And_Humidity_Sensor"
+                ]
+            },
+            "intelliSenseMode": "msvc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
