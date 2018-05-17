@@ -2,7 +2,7 @@
 
 A web-socket weather station using an ESP8266 with a DHT22 and SI1145 sensor. The values are displayed in canvas gauges
 
-![mobile](/images/iPhone.png)
+![mobile](/images/iPhone.png) {:height="40%" width="40%"}
 
 ![desktop](/images/WeatherDesk.png)
 
